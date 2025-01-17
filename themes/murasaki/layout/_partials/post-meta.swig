@@ -3,7 +3,7 @@
 </span>
 
 <span class="post-meta-item post-meta-categories">
-  <span class="post-meta-item-indicator">分类:</span>
+  <span class="post-meta-item-indicator"></span>
   {% if post.categories and post.categories.length %}
     {{ list_categories(post.categories, { show_count: false, separator: ', ', style: '' }) }}
   {% else %}
