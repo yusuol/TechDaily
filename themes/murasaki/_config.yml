@@ -90,18 +90,18 @@ disqus:
 # Giscus - A comment system powered by GitHub Discussions.
 # See: https://github.com/giscus/giscus
 giscus:
-  enable: false
-  repo:
-  repo_id:
+  enable: true
+  repo: "haodhua/syhg"
+  repo_id: "R_kgDONrdujw"
   category: Announcements
-  category_id:
+  category_id: "DIC_kwDONrduj84CmE_5"
   mapping: pathname
   strict: 0
   reactions_enabled: 1
   emit_metadata: 0
   input_position: top
   theme: preferred_color_scheme
-  lang: en
+  lang: "zh-CN"
   loading: lazy
 
 # Google Analytics
