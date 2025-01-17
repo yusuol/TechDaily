@@ -1,0 +1,19 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "scaffolds/",
+    "themes/",
+    "themes/murasaki/",
+    "themes/murasaki/layout/",
+    "themes/murasaki/scripts/",
+    "themes/murasaki/source/",
+    "themes/murasaki/layout/_partials/",
+    "themes/murasaki/source/css/",
+    "themes/murasaki/source/images/",
+    "themes/murasaki/source/js/",
+    "themes/murasaki/source/css/_partials/"
+  ],
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}
