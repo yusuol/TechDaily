@@ -40,7 +40,7 @@
 </section>
 {% endif %}
 
-{% if theme.sidebar.links %}
+{#{% if theme.sidebar.links %}
 <section class="widget" id="widget-links">
   <h3 class="widget-title">链接</h3>
   <ul class="menu">
@@ -52,7 +52,7 @@
     {% endfor %}
   </ul>
 </section>
-{% endif %}
+{% endif %}#}
 
 {% if theme.sidebar.tagcloud and is_home() %}
 <section class="widget" id="widget-tagcloud">
