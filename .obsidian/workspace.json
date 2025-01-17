@@ -11,10 +11,14 @@
             "id": "16c08aea12c5ae1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/读围城——我的小人之心.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "读围城——我的小人之心"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97bfc40dac974fd8",
+  "active": "16c08aea12c5ae1d",
   "lastOpenFiles": [
     "source/_posts/读围城——我的小人之心.md",
     "source/_template/Front-matter.md",
