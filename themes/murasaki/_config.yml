@@ -47,10 +47,10 @@ menu_pages:
 
 # Links menu widget.
 # Put your social links or whatever you like here.
-# menu_links:
-  #rss:
-    #name: RSS
-    #path: https://rss.app/feeds/r4qVOFKBLEUqcGri.xml
+menu_links:
+  rss:
+    name: RSS
+    path: /atom.xml
 
 # ---------------------------------------------------------------
 # Post Settings
