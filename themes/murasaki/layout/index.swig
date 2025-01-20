@@ -14,7 +14,7 @@
       <div class="post-content">
         {% if post.excerpt %}
           {{ lazyloadImage(post.excerpt) }}
-          <p><a class="more-link" href="{{ url_for(post.path) }}#more">&gt; READ MORE...</a></p>
+          <p><a class="more-link" href="{{ url_for(post.path) }}#more">&gt; Read more...</a></p>
         {% else %}
           {{ lazyloadImage(post.content) }}
         {% endif %}
