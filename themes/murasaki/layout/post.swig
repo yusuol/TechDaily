@@ -23,7 +23,7 @@
     {% endif %}
 
     <div class="post-content">{{ lazyloadImage(page.content) }}</div>
-    <div class="post-copyright"><p>除非另有声明，本博客文章均采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans">CC-BY-NC-ND 4.0 国际许可协议</a>进行许可。转载请注明原作者与文章出处。</p></div>
+    <div class="post-copyright"><p>除非另有声明，本博客文章均采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans">CC BY-NC-ND 4.0 国际许可协议</a>进行许可。转载请注明原作者与文章出处。</p></div>
   </article>
 
   {% if (page.prev || page.next) %}
