@@ -100,7 +100,7 @@ giscus:
   reactions_enabled: 1
   emit_metadata: 0
   input_position: top
-  theme: "preferred_color_scheme""
+  theme: preferred_color_scheme
   lang: "zh-CN"
   loading: "lazy"
 
