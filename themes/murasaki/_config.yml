@@ -93,9 +93,9 @@ giscus:
   enable: true
   repo: "lunmu/syhg"
   repo_id: "R_kgDONrdujw"
-  category: "Announcements"
+  category: Announcements
   category_id: "DIC_kwDONrduj84CmE_5"
-  mapping:  "title"
+  mapping:  title
   strict: 0
   reactions_enabled: 1
   emit_metadata: 0
@@ -103,7 +103,6 @@ giscus:
   theme: "preferred_color_scheme""
   lang: "zh-CN"
   loading: "lazy"
-  crossorigin: "anonymous"
 
 # Google Analytics
 # See: https://github.com/SukkaW/cloudflare-workers-async-google-analytics
