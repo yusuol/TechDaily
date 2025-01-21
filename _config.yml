@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: u1s1
-subtitle: '有一说一的艺术'
+title: SYHG
+subtitle: '孤独の疗愈'
 description: ''
 keywords:
 author:
@@ -28,7 +28,7 @@ feed:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://u1s1.art
+url: http://solitaryhealing.com
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
