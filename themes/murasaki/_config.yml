@@ -95,14 +95,13 @@ giscus:
   repo_id: "R_kgDONrdujw"
   category: Announcements
   category_id: "DIC_kwDONrduj84CmE_5"
-  mapping: pathname
+  mapping: title
   strict: 0
   reactions_enabled: 1
   emit_metadata: 0
   input_position: top
   theme: preferred_color_scheme
   lang: "zh-CN"
-  loading: lazy
 
 # Google Analytics
 # See: https://github.com/SukkaW/cloudflare-workers-async-google-analytics
