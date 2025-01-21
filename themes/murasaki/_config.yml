@@ -95,7 +95,7 @@ giscus:
   repo_id: "R_kgDONrdujw"
   category: Announcements
   category_id: "DIC_kwDONrduj84CmE_5"
-  mapping:  title
+  mapping: title
   strict: 0
   reactions_enabled: 1
   emit_metadata: 0
