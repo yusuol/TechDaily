@@ -102,7 +102,7 @@ giscus:
   input_position: top
   theme: preferred_color_scheme
   lang: "zh-CN"
-  loading: "lazy"
+  loading: lazy
 
 # Google Analytics
 # See: https://github.com/SukkaW/cloudflare-workers-async-google-analytics
