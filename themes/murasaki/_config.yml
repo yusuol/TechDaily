@@ -52,6 +52,14 @@ menu_links:
     name: RSS
     path: /atom.xml
 
+  travellings:
+      name: 开往
+      path: https://www.travellings.cn/go.html
+
+  moe:
+     name: 跃迁
+     path: https://travel.moe/go.html
+
 # ---------------------------------------------------------------
 # Post Settings
 # ---------------------------------------------------------------
@@ -102,7 +110,6 @@ giscus:
   input_position: top
   theme: preferred_color_scheme
   lang: "zh-CN"
-  loading: lazy
 
 # Google Analytics
 # See: https://github.com/SukkaW/cloudflare-workers-async-google-analytics
