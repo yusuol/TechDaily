@@ -115,7 +115,7 @@ theme: murasaki
 theme_config:
   lazyload:
     enable: true
-    loading_image: /images/loading.gif
+    loading_image: /themes/murasaki/source/images/loading.gif
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
