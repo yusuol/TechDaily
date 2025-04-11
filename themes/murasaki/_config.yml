@@ -17,7 +17,7 @@ time_format: HH:mm:ss
 # ---------------------------------------------------------------
 
 # Set default keywords (Use a comma to separate).
-keywords: "solitaryhealing, 孤独, 孤独的疗愈"
+keywords: "technology, taikni, 科技"
 
 
 # Set a canonical link tag in your blog for SEO.
@@ -99,10 +99,10 @@ disqus:
 # See: https://github.com/giscus/giscus
 giscus:
   enable: true
-  repo: "lunmu/syhg"
-  repo_id: "R_kgDONrdujw"
+  repo: "yusuol/TechDaily"
+  repo_id: "R_kgDOOXqO8A"
   category: Announcements
-  category_id: "DIC_kwDONrduj84CmE_5"
+  category_id: "DIC_kwDOOXqO8M4Co_W8"
   mapping: title
   strict: 0
   reactions_enabled: 1

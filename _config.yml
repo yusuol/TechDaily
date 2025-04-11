@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SYHG BLOG
-subtitle: '孤独の癒やし'
+title: Tech Daily
+subtitle: '科技让生活更美好？'
 description: ''
 keywords:
 author:
@@ -29,7 +29,7 @@ feed:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://solitaryhealing.com
+url: http://taikni.com
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
