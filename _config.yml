@@ -114,7 +114,7 @@ ignore:
 theme: murasaki
 theme_config:
   lazyload:
-    enable: false
+    enable: true
     loading_image: 
 
 # Deployment
