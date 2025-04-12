@@ -31,7 +31,7 @@
 {% endblock %}
 
 {% block widgets %}
-  {% set list = list_archives({ show_count: false }) %}
+  {% set list = list_archives({ format: 'YYYY-MM', show_count: false }) %}
   <section class="widget">
     <h3 class="widget-title">归档</h3>
     {% if list %}
