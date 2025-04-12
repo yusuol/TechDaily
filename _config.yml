@@ -114,8 +114,8 @@ ignore:
 theme: murasaki
 theme_config:
   lazyload:
-    enable: true
-    loading_image: themes/murasaki/source/images/loading.jpg
+    enable: false
+    loading_image: 
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
