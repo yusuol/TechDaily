@@ -33,7 +33,9 @@
   {% set year = date(Date.now(), "YYYY") %}
   <div class="container">
     <p>
-      &copy; {{ year }} <a href="{{ config.url }}">{{ config.title }}</a> 
+      &copy; {{ year }} <a href="{{ config.url }}">{{ config.title }}</a>. Powered by
+      <a href="https://hexo.io/" target="_blank">Hexo</a> & <a href="https://github.com/printempw/hexo-theme-murasaki/" target="_blank">Murasaki</a>.
+    </p>
   </div>
 </footer>
 
