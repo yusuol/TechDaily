@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Technology
+title: Yusuol
 subtitle: '科技让生活更美好？'
 description: ''
 keywords:
@@ -115,7 +115,7 @@ theme: murasaki
 theme_config:
   lazyload:
     enable: true
-    loading_image: themes/murasaki/source/images/loading.gif
+    loading_image: themes/murasaki/source/images/loading.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
