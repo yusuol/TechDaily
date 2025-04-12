@@ -79,7 +79,7 @@ toc: true
 # Image Lazyload
 lazyload:
   enable: true
-  loading_image: images/loading.jpg
+  loading_image: ../source/images/loading.jpg
 
 # ---------------------------------------------------------------
 # Third Party Services
