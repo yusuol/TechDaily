@@ -15,7 +15,7 @@ importers:
         specifier: ^2.2.1
         version: 2.2.1
       hexo-asset-image:
-        specifier: github:CodeFalling/hexo-asset-image
+        specifier: git+https://github.com/CodeFalling/hexo-asset-image.git
         version: git+https://git@github.com:CodeFalling/hexo-asset-image.git#3c114cf0c0343ab28469635085b225fcae7fb9d3
       hexo-auto-category:
         specifier: ^0.2.2
