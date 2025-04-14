@@ -76,11 +76,6 @@ auto_excerpt:
 # - false: Disable TOC.
 toc: true
 
-# Image Lazyload
-lazyload:
-  enable: false
-  loading_image: 
-
 # ---------------------------------------------------------------
 # Third Party Services
 # ---------------------------------------------------------------
