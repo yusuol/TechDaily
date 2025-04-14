@@ -54,7 +54,7 @@
 </section>
 {% endif %}
 
-{% if theme.sidebar.tagcloud and is_home() %}
+{% if theme.sidebar.tagcloud and (is_home() or is_post()) %}
 <section class="widget" id="widget-tagcloud">
   <h3 class="widget-title">标签云</h3>
   {{ tagcloud() }}
