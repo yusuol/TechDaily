@@ -9,7 +9,7 @@
 ### 2025
 
 #### 04月
-
+- 17日: ["磁铁论"](source/_posts/daily/10.md)
 - 16日: ["创业者的红利，就业者的地狱"](source/_posts/daily/9.md)
 - 15日: ["不得的幽怨"](source/_posts/daily/8.md)
 - 14日: [“收放自如的GitHub”](source/_posts/daily/7.md)
