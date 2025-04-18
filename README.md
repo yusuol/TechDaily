@@ -9,6 +9,8 @@
 ### 2025
 
 #### 04月
+- 19日: ["暴风雪肆虐阿尔卑斯山"](source/_posts/daily/12.md)
+- 18日: ["透明的巨型乌贼"](source/_posts/daily/11.md)
 - 17日: ["磁铁论"](source/_posts/daily/10.md)
 - 16日: ["创业者的红利，就业者的地狱"](source/_posts/daily/9.md)
 - 15日: ["不得的幽怨"](source/_posts/daily/8.md)
