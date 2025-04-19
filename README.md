@@ -9,6 +9,8 @@
 ### 2025
 
 #### 04月
+
+- 20日: ["蛮干与创新"](source/_posts/daily/13.md)
 - 19日: ["暴风雪肆虐阿尔卑斯山"](source/_posts/daily/12.md)
 - 18日: ["透明的巨型乌贼"](source/_posts/daily/11.md)
 - 17日: ["磁铁论"](source/_posts/daily/10.md)
